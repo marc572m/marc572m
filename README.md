@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marc572m
-- 👀 I’m interested in Football and gaming
-- 🌱 I’m currently learning Java and JavaScript
+- 👀 I’m interested in Football and gaming.
+- 🌱 I’m currently learning JavaScript, MongoDB and other website stuff.
 - 📫 How to reach me marc572m@edu.zealand.dk
 
 <!---
